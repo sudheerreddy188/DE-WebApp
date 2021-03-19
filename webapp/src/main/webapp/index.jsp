@@ -149,6 +149,7 @@ body {
 
 <div class="footer">
   <a style=color:grey; href="https://www.gov.ie/en/">Feedback</a>
+  <a style="color:grey;"href="https://www.education.ie/en/Accessibilty/">Accessibilty</a>
 </div>
 
 </body>
