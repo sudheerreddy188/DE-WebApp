@@ -1,2 +1,2 @@
 Devops Project
-Edit 1: To trigger the build..!
+Edit 1: To trigger the build.!
