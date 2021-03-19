@@ -133,6 +133,7 @@ body {
   <a href="#">Parents</a>
   <a href="#">Education Staff</a>
   <a href="https://www.phptravels.net/login">Students</a>
+  <a href="https://www2.hse.ie/coronavirus/">COVID-19</a>
   <a href="#" class="right">Contact Us</a>
 </div>
 
